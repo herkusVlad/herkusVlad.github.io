@@ -1,0 +1,11 @@
+body {
+    background: black ;
+}
+@font-face{
+    font-family: tetris;
+    src: url("fonts/Tetris.ttf");
+}
+span{
+    font-size: 3em;
+    font-family: tetris;
+}

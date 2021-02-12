@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2de721b5-f16c-4eec-8788-a5f5dde0beb1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/audio/gameOverStage.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/audio/gameOverStage.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/audio/loginStage.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/audio/loginStage.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/audio/scoreStage.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/audio/scoreStage.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/musicController.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/musicController.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZgDaLfLuqONomzlF81mN5jyqMR" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jsx.switch.disabled" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2de721b5-f16c-4eec-8788-a5f5dde0beb1" name="Default Changelist" comment="" />
+      <created>1585251535212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585251535212</updated>
+      <workItem from="1585251575805" duration="281000" />
+      <workItem from="1585251908314" duration="1796000" />
+      <workItem from="1585253725115" duration="1812000" />
+      <workItem from="1585255557298" duration="1822000" />
+      <workItem from="1585257401208" duration="1239000" />
+      <workItem from="1585258764036" duration="88000" />
+      <workItem from="1585483479201" duration="1064000" />
+      <workItem from="1585556514772" duration="1743000" />
+      <workItem from="1585558672596" duration="1325000" />
+      <workItem from="1585560935149" duration="1766000" />
+      <workItem from="1585562723082" duration="1794000" />
+      <workItem from="1585564557956" duration="1801000" />
+      <workItem from="1585571055111" duration="1812000" />
+      <workItem from="1585572903132" duration="1792000" />
+      <workItem from="1585574721848" duration="1683000" />
+      <workItem from="1585576548297" duration="1804000" />
+      <workItem from="1585578704962" duration="1796000" />
+      <workItem from="1585580519904" duration="1794000" />
+      <workItem from="1585582359929" duration="1877000" />
+      <workItem from="1585584258030" duration="1797000" />
+      <workItem from="1585586094684" duration="1793000" />
+      <workItem from="1585588047083" duration="1796000" />
+      <workItem from="1585589933534" duration="1790000" />
+      <workItem from="1585591748638" duration="1719000" />
+      <workItem from="1586084575587" duration="286000" />
+      <workItem from="1586454332240" duration="934000" />
+      <workItem from="1592434407676" duration="1602000" />
+      <workItem from="1592436033810" duration="1910000" />
+      <workItem from="1592437970834" duration="1793000" />
+      <workItem from="1592439786166" duration="724000" />
+      <workItem from="1596406163999" duration="613000" />
+      <workItem from="1604167224547" duration="469000" />
+      <workItem from="1612986300559" duration="675000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

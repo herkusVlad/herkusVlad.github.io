@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Javatris</title>
+    <script src="scripts/storage.js">
+    </script>
+    <style>
+        @import "styles/main.css";
+    </style>
+</head>
+<body>
+<div align="center" id="root_div">
+    <h1>
+        <span style="color: red">G</span>
+        <span style="color: green">a</span>
+        <span style="color: orange">c</span>
+        <span style="color: purple">h</span>
+        <span style="color: darkgreen">i</span>
+        <span style="color: deepskyblue">♂</span>
+        <span style="color: deepskyblue">t</span>
+        <span style="color: yellow">r</span>
+        <span style="color: darkred">i</span>
+        <span style="color: darkgreen">s</span>
+    </h1>
+    <div id="login_name" style="color: aliceblue">Hello, </div>
+
+    <script>
+
+        let nick = load();
+        if(nick===""){
+            nick = "User";
+        }
+        document.getElementById("login_name").innerText = "Hello, "+nick+" sl♂ves!";
+
+    </script>
+
+    <br/>
+    <script src="scripts/index.js" type="module"></script>>
+</div>
+
+</body>
+</html>
