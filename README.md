@@ -1,4 +1,4 @@
 # herkusVlad.github.io
-  Если ваш браузер показывает ошибку 405 при переходе на main.html то нажмите на адресную строку и нажмите Enter.
+  Esli vash brauzer pokazivaet 405 error pri perehode na main.html to clicknite na adresnuu stroku i nazmite Enter.
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     If your browser shows a 405 error when going to the main.html then click on the address bar and press Enter.
